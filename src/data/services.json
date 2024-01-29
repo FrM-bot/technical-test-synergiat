@@ -1,0 +1,36 @@
+{
+    "services": [
+        {
+            "image": "/images/sr1.jpg",
+            "name": "Piscina"
+        },
+        {
+            "image": "/images/sr2.jpg",
+            "name": "Spa"
+        },
+        {
+            "image": "/images/sr3.jpg",
+            "name": "Sauna"
+        },
+        {
+            "image": "/images/sr4.jpg",
+            "name": "Discoteca"
+        },
+        {
+            "image": "/images/sr5.jpg",
+            "name": "Desayunos"
+        },
+        {
+            "image": "/images/sr6.jpg",
+            "name": "Gimnasio"
+        },
+        {
+            "image": "/images/sr7.jpg",
+            "name": "Animaciones"
+        },
+        {
+            "image": "/images/sr8.jpg",
+            "name": "Transporte"
+        }
+    ]
+}

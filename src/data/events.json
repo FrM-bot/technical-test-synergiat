@@ -1,0 +1,18 @@
+{
+    "events": [
+        {
+          "image": "/images/event_1.webp",
+          "name": "Evento",
+          "date": "Mon Jan 29 2024 04:41:24 GMT-0300 (Argentina Standard Time)"
+        },
+        {
+          "image": "/images/event_2.webp",
+          "name": "Wine Night",
+          "date": "Mon Jan 29 2024 04:41:24 GMT-0300 (Argentina Standard Time)"
+        }, {
+          "image": "/images/event_3.webp",
+          "name": "Concierto",
+          "date": "Mon Jan 29 2024 04:41:24 GMT-0300 (Argentina Standard Time)"
+        }
+      ]
+}

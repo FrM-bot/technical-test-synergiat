@@ -1,0 +1,70 @@
+{
+    "lunches": [
+        {
+            "image": "/images/a1.jpg",
+            "name": "Plato 1",
+            "price": 2.99
+        },
+        {
+            "image": "/images/a2.jpg",
+            "name": "Plato 2",
+            "price": 6.99
+        },
+        {
+            "image": "/images/a3.jpg",
+            "name": "Plato 3",
+            "price": 3.99
+        }
+    ],
+    "breakfastAndDinners": [
+        {
+            "image": "/images/bd1.jpg",
+            "name": "Desayuno y cena 1",
+            "price": 2.99
+        },
+        {
+            "image": "/images/bd2.jpg",
+            "name": "Desayuno y cena 2",
+            "price": 6.99
+        },
+        {
+            "image": "/images/bd3.jpg",
+            "name": "Desayuno y cena 3",
+            "price": 3.99
+        }
+    ],
+    "desserts": [
+        {
+            "image": "/images/dess1.jpg",
+            "name": "Postre 1",
+            "price": 2.99
+        },
+        {
+            "image": "/images/dess2.jpg",
+            "name": "Postre 2",
+            "price": 6.99
+        },
+        {
+            "image": "/images/dess3.jpg",
+            "name": "Postre 3",
+            "price": 3.99
+        }
+    ],
+    "drinks": [
+        {
+            "image": "/images/dr1.jpg",
+            "name": "Bebida 1",
+            "price": 2.99
+        },
+        {
+            "image": "/images/dr2.jpg",
+            "name": "Bebida 2",
+            "price": 6.99
+        },
+        {
+            "image": "/images/dr3.jpg",
+            "name": "Bebida 3",
+            "price": 3.99
+        }
+    ]
+}

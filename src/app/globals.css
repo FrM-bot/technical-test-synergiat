@@ -1,0 +1,24 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.desktop {
+  display: contents;
+}
+
+.mobile {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .desktop {
+    display: none;
+  }
+  .mobile {
+    display: contents;
+  }
+}
+
+#container-carrousel::-webkit-scrollbar {
+  appearance: none;
+}
